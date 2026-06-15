@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://example.com/uk-civil-service-interview-simulator/sitemap.xml
